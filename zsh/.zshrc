@@ -9,6 +9,7 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 source <(fzf --zsh)
+source ~/.config/fzf/immortal.sh
 
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
