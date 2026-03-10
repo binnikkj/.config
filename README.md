@@ -11,8 +11,6 @@ if you copy this blindly and something breaks, that's expected.
 
 if you are new to sway, read the [sway guide wiki](https://github.com/swaywm/sway/wiki)
 
----
-
 ## screenshots
 
 <img width="1920" height="1080" src="images/img1.png">
@@ -20,8 +18,6 @@ if you are new to sway, read the [sway guide wiki](https://github.com/swaywm/swa
 <img width="1920" height="1080" src="images/img2.png">
 
 <img width="1920" height="1080" src="images/img3.png">
-
----
 
 random configs that work on my machine.
 use at your own risk.
